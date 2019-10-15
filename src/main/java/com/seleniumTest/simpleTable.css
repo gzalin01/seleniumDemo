@@ -1,0 +1,32 @@
+/* 表格居中显示 */
+table {
+    width: 600px;
+    margin: 0 auto;
+}
+
+table {
+    width: 600px;
+    margin: 0 auto;    //居中显示
+    border-top:2px cornflowerblue;
+    border-bottom:2px cornflowerblue;
+    border-collapse: collapse; //合并单元格
+}
+
+th{
+    background: aquamarine;
+    border-bottom:1px aquamarine;
+}
+
+td:nth-child(5){
+    text-align: center;
+    border-bottom:1px aquamarine;
+}
+
+th,td{
+    padding: .5em 1em;
+}
+
+tr:nth-child(even){
+    background: azure;
+    border-bottom:1px aquamarine;
+}

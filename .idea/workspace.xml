@@ -1,7 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5101415-b189-4af0-9b35-c877d6b638f8" name="Default Changelist" comment="" />
+    <list default="true" id="b5101415-b189-4af0-9b35-c877d6b638f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/.idea/artifacts/tessdata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumDemo/Base64Util.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumDemo/FileUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumDemo/HttpClientUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumDemo/HttpRequestData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumDemo/HttpUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumDemo/tdrManagerLogin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumTest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumUtil/Base64Util.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumUtil/ImageBase64ToStringUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumUtil/ImageIoHelper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumUtil/ImageUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumUtil/ScreenShotUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumUtil/Tess4JPicUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/tdrManager" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/resources/tessdata/eng.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/resources/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/META-INF/seleniumTest.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumDemo/Base64Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumDemo/FileUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumDemo/HttpClientUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumDemo/HttpRequestData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumDemo/HttpUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumDemo/tdrManagerLogin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumTest/DifferentDriverTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumTest/ElementLocalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumTest/SeleniumAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumTest/SeleniumDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumTest/TableLocalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumUtil/Base64Util.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumUtil/ImageBase64ToStringUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumUtil/ImageIoHelper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumUtil/ImageUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumUtil/ScreenShotUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumUtil/Tess4JPicUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/CustomerAuthFilePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/CustomerSignaturePage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/GetAccessToken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/GetToken.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/LogManagerMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/Login.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/MessageLogMenuPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/OrgUserListPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/OrgUserOpenCountPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/Retry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/RetryListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/SystemManageMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/TdrManagerBasic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/TestListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/UKeyCertRelationPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/UKeyElecSealRelationPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/UkeyBinDingPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/tessdata/eng.traineddata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/testng.xml" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="513">
-              <caret line="54" column="36" lean-forward="true" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
+              <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -49,7 +115,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tdrManager/Login.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="299">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -205,7 +271,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="202" />
     <option name="y" value="185" />
     <option name="width" value="1415" />
@@ -250,15 +316,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTest" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="tdrManager" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="seleniumTest" type="b2602c69:ProjectViewProjectNode" />
@@ -550,7 +607,7 @@
       <workItem from="1570672228443" duration="7568000" />
       <workItem from="1570696795546" duration="44000" />
       <workItem from="1570696864699" duration="27963000" />
-      <workItem from="1571017864239" duration="4486000" />
+      <workItem from="1571017864239" duration="4603000" />
     </task>
     <servers />
   </component>
@@ -587,11 +644,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="365135000" />
+    <option name="totallyTimeSpent" value="365252000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
       <window_info id="Web" order="0" sideWeight="0.105960265" side_tool="true" weight="0.25938338" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -1174,14 +1230,14 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
-          <caret line="54" column="36" lean-forward="true" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
+          <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tdrManager/Login.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="299">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
