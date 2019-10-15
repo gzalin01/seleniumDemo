@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact name="tessdata">
+    <output-path>D:/ALIN/Tess4J-3.4.8-src/tessdata</output-path>
+    <root id="root" />
+  </artifact>
+</component>

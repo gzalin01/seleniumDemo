@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="tdrManager">
+    <listeners>
+        <listener class-name="com.tdrManager.RetryListener"></listener>
+        <listener class-name="com.tdrManager.TestListener"></listener>
+    </listeners>
+
+    <test verbose="2" preserve-order="true" name="C:/Users/tdr_lhy/IdeaProjects/tdrManager">
+        <classes>
+            <!--
+            <class name="com.seleniumTest.SeleniumDemo">
+                <methods>
+                    <include name="testSearch" />
+                </methods>
+            </class>
+
+            <class name="com.seleniumTest.DifferentDriverTest">
+                <methods>
+                    <include name="testFireFoxDriver" />
+                </methods>
+            </class>
+            -->
+
+            <class name="com.tdrManager.Login">
+                <methods>
+                    <include name="login"/>
+                </methods>
+            </class>
+
+            <class name="com.tdrManager.CustomerAuthFilePage">
+                <methods>
+                    <include name="customerAuthFile"/>
+                </methods>
+            </class>
+            <class name="com.tdrManager.CustomerSignaturePage">
+                <methods>
+                    <include name="customerSignature"/>
+                </methods>
+            </class>
+
+            <!--
+            <class name="com.tdrManager.LogManagerMenu">
+                <methods>
+                    <include name="SystemLogMenu"/>
+                    <include name="accessApiLogMenu"/>
+                    <include name="accessApproveLogMenu"/>
+                </methods>
+            </class>
+
+            <class name="com.tdrManager.MessageLogMenuPage">
+                <methods>
+                    <include name="messageLogMenu"/>
+                </methods>
+            </class>
+            <class name="com.tdrManager.OrgUserListPage">
+                <methods>
+                    <include name="orgUserList"/>
+                </methods>
+            </class>
+
+            <class name="com.tdrManager.OrgUserOpenCountPage">
+                <methods>
+                    <include name="orgUserOpenCount"/>
+                </methods>
+            </class>
+
+            <class name="com.tdrManager.SystemManageMenu">
+                <methods>
+                    <include name=""/>
+                </methods>
+            </class>
+
+            <class name="com.tdrManager.UkeyBinDingPage">
+                <methods>
+                    <include name="ukeyBinDing"/>
+                </methods>
+            </class>
+
+            <class name="com.tdrManager.UKeyCertRelationPage">
+                <methods>
+                    <include name="uKeyCertRelation"/>
+                </methods>
+            </class>
+
+            <class name="com.tdrManager.UKeyElecSealRelationPage">
+                <methods>
+                    <include name="uKeyElecSealRelation"/>
+                </methods>
+            </class>
+            -->
+
+        </classes>
+    </test>
+</suite>
