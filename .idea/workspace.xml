@@ -2,71 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5101415-b189-4af0-9b35-c877d6b638f8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/.idea/artifacts/tessdata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumDemo/Base64Util.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumDemo/FileUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumDemo/HttpClientUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumDemo/HttpRequestData.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumDemo/HttpUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumDemo/tdrManagerLogin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumTest" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumUtil/Base64Util.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumUtil/ImageBase64ToStringUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumUtil/ImageIoHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumUtil/ImageUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumUtil/ScreenShotUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/seleniumUtil/Tess4JPicUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/java/com/tdrManager" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/resources/tessdata/eng.traineddata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/src/main/resources/testng.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/META-INF/seleniumTest.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumDemo/Base64Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumDemo/FileUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumDemo/HttpClientUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumDemo/HttpRequestData.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumDemo/HttpUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumDemo/tdrManagerLogin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumTest/DifferentDriverTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumTest/ElementLocalTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumTest/SeleniumAPI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumTest/SeleniumDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumTest/TableLocalTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumUtil/Base64Util.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumUtil/ImageBase64ToStringUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumUtil/ImageIoHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumUtil/ImageUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumUtil/ScreenShotUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/seleniumUtil/Tess4JPicUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/CustomerAuthFilePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/CustomerSignaturePage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/GetAccessToken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/GetToken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/LogManagerMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/Login.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/MessageLogMenuPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/OrgUserListPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/OrgUserOpenCountPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/Retry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/RetryListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/SystemManageMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/TdrManagerBasic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/TestListener.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/UKeyCertRelationPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/UKeyElecSealRelationPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/com/tdrManager/UkeyBinDingPage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/tessdata/eng.traineddata" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/seleniumTest/target/classes/testng.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -82,43 +22,40 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tdrManager/UKeyElecSealRelationPage.java">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="912">
-              <caret line="52" column="57" selection-start-line="52" selection-start-column="57" selection-end-line="52" selection-end-column="57" />
+            <state relative-caret-position="-731">
+              <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/testng.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tdrManager/Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="43" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tdrManager/Login.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="54" selection-start-line="54" selection-end-line="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="494">
+              <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -205,7 +142,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/java/com/tdrManager" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -259,8 +196,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/tdrManager/UKeyCertRelationPage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/tdrManager/UKeyElecSealRelationPage.java" />
         <option value="$PROJECT_DIR$/src/main/resources/testng.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/com/tdrManager/Login.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -271,8 +208,8 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="202" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="200" />
     <option name="y" value="185" />
     <option name="width" value="1415" />
     <option name="height" value="765" />
@@ -283,6 +220,27 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="seleniumTest" type="58d84e3e:PackageViewProjectNode" />
+              <item name="seleniumTest" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="seleniumTest" type="58d84e3e:PackageViewProjectNode" />
+              <item name="seleniumTest" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+            </path>
+            <path>
+              <item name="seleniumTest" type="58d84e3e:PackageViewProjectNode" />
+              <item name="seleniumTest" type="616d4139:PackageViewModuleNode" />
+              <item name="tessdata" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -322,6 +280,24 @@
               <item name="seleniumTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="seleniumTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="tdrManager" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="seleniumTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="seleniumTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -329,38 +305,6 @@
               <item name="seleniumTest" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTest" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="seleniumTest" type="b2602c69:ProjectViewProjectNode" />
-              <item name="seleniumTest" type="462c0819:PsiDirectoryNode" />
-              <item name="target" type="462c0819:PsiDirectoryNode" />
-              <item name="generated-sources" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="seleniumTest" type="58d84e3e:PackageViewProjectNode" />
-              <item name="seleniumTest" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="seleniumTest" type="58d84e3e:PackageViewProjectNode" />
-              <item name="seleniumTest" type="616d4139:PackageViewModuleNode" />
-              <item name="com" type="1f31426a:PackageElementNode" />
-            </path>
-            <path>
-              <item name="seleniumTest" type="58d84e3e:PackageViewProjectNode" />
-              <item name="seleniumTest" type="616d4139:PackageViewModuleNode" />
-              <item name="tessdata" type="1f31426a:PackageElementNode" />
             </path>
           </expand>
           <select />
@@ -373,30 +317,31 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\tdr_lhy\IdeaProjects\seleniumTest\src\main\resources" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.tdrManager" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.tdrLogin" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.tdrManager" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tdr_lhy\IdeaProjects\seleniumTest\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.tdrManager" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tdr_lhy\IdeaProjects\seleniumTest\src" />
       <recent name="C:\Users\tdr_lhy\IdeaProjects\seleniumTest\src\main\java\com\seleniumDemo" />
       <recent name="C:\Users\tdr_lhy\IdeaProjects\seleniumTest\src\main\java\com\seleniumUtil" />
     </key>
@@ -607,7 +552,8 @@
       <workItem from="1570672228443" duration="7568000" />
       <workItem from="1570696795546" duration="44000" />
       <workItem from="1570696864699" duration="27963000" />
-      <workItem from="1571017864239" duration="4603000" />
+      <workItem from="1571017864239" duration="8364000" />
+      <workItem from="1571127166237" duration="4416000" />
     </task>
     <servers />
   </component>
@@ -644,10 +590,11 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="365252000" />
+    <option name="totallyTimeSpent" value="373429000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info id="Web" order="0" sideWeight="0.105960265" side_tool="true" weight="0.25938338" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -656,7 +603,7 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.89403975" visible="true" weight="0.23458445" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.89403975" visible="true" weight="0.23793566" />
       <window_info anchor="bottom" id="Java Enterprise" order="0" />
       <window_info anchor="bottom" id="Spring" order="1" />
       <window_info anchor="bottom" id="Message" order="2" />
@@ -723,6 +670,12 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/src/main/java/com/seleniumTest" />
+      <path value="$PROJECT_DIR$/src/main/java/com/tdrManager" />
+    </ignored-roots>
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -804,81 +757,14 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/jdk/internal/reflect/NativeMethodAccessorImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8-sources.jar!/org/testng/DependencyMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8-sources.jar!/org/testng/Assert.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="186" selection-start-line="186" selection-end-line="186" />
-          <folding>
-            <element signature="e#5733#5734#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar!/org/apache/http/message/HeaderGroup.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar!/org/apache/http/client/methods/AbstractExecutionAwareRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar!/org/apache/http/client/methods/HttpEntityEnclosingRequestBase.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar!/org/apache/http/client/methods/HttpPost.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-          <folding>
-            <element signature="e#477#478#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar!/org/apache/http/message/AbstractHttpMessage.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="e#826#827#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar!/org/apache/http/client/methods/HttpRequestBase.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-          <folding>
-            <element signature="e#1715#1716#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8-sources.jar!/org/testng/DependencyMap.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8-sources.jar!/org/testng/Assert.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar!/org/apache/http/message/HeaderGroup.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar!/org/apache/http/client/methods/AbstractExecutionAwareRequest.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar!/org/apache/http/client/methods/HttpEntityEnclosingRequestBase.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar!/org/apache/http/client/methods/HttpPost.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar!/org/apache/http/message/AbstractHttpMessage.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar!/org/apache/http/client/methods/HttpRequestBase.class" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tdrLogin/Login.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tdrManager/TakesScreenshor.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/seleniumDemo/tdrManagerLogin.java">
@@ -891,143 +777,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8-sources.jar!/org/testng/SuiteRunnerWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="51" column="16" selection-start-line="51" selection-start-column="16" selection-end-line="51" selection-end-column="16" />
-          <folding>
-            <element signature="e#2713#2714#0" expanded="true" />
-            <element signature="e#2778#2779#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/serializer/SerializeFilterable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/util/ServiceLoader.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="60" selection-start-line="60" selection-end-line="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/serializer/SerialContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/util/IdentityHashMap.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/serializer/SerializeConfig.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="316" selection-start-line="316" selection-end-line="316" />
-          <folding>
-            <element signature="e#7072#7073#0" expanded="true" />
-            <element signature="e#7109#7110#0" expanded="true" />
-            <element signature="e#13833#13834#0" expanded="true" />
-            <element signature="e#27666#27667#0" expanded="true" />
-            <element signature="e#27722#27723#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/serializer/JSONSerializer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="295" selection-start-line="295" selection-end-line="295" />
-          <folding>
-            <element signature="e#1073#1074#0" expanded="true" />
-            <element signature="e#1135#1136#0" expanded="true" />
-            <element signature="e#5985#5986#0" expanded="true" />
-            <element signature="e#6019#6020#0" expanded="true" />
-            <element signature="e#9539#9540#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/serializer/MapSerializer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="248" selection-start-line="248" selection-end-line="248" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/serializer/LongCodec.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/util/IOUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="114" selection-start-line="114" selection-end-line="114" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/JSONArray.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="212" selection-start-line="212" selection-end-line="212" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/JSONObject.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="203" selection-start-line="203" selection-end-line="203" />
-          <folding>
-            <element signature="e#949#950#0" expanded="true" />
-            <element signature="e#980#981#0" expanded="true" />
-            <element signature="e#1826#1827#0" expanded="true" />
-            <element signature="e#1866#1867#0" expanded="true" />
-            <element signature="e#5776#5777#0" expanded="true" />
-            <element signature="e#6687#6688#0" expanded="true" />
-            <element signature="e#6729#6730#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/JSON.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="556" selection-start-line="556" selection-end-line="556" />
-          <folding>
-            <element signature="e#21907#21908#0" expanded="true" />
-            <element signature="e#21949#21950#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/serializer/SerializeWriter.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="67" selection-start-line="67" selection-end-line="67" />
-          <folding>
-            <element signature="e#1339#1340#0" expanded="true" />
-            <element signature="e#1373#1374#0" expanded="true" />
-            <element signature="e#1418#1419#0" expanded="true" />
-            <element signature="e#1502#1503#0" expanded="true" />
-            <element signature="e#4829#4830#0" expanded="true" />
-            <element signature="e#4887#4888#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8-sources.jar!/org/testng/SuiteRunnerWorker.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/serializer/SerializeFilterable.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/util/ServiceLoader.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/serializer/SerialContext.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/util/IdentityHashMap.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/serializer/SerializeConfig.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/serializer/JSONSerializer.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/serializer/MapSerializer.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/serializer/LongCodec.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/util/IOUtils.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/JSONArray.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/JSONObject.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/JSON.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.28/fastjson-1.2.28.jar!/com/alibaba/fastjson/serializer/SerializeWriter.class" />
     <entry file="jar://C:/Program Files/Java/jdk-12.0.2/lib/src.zip!/java.base/jdk/internal/reflect/DelegatingMethodAccessorImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -1069,20 +832,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8-sources.jar!/org/testng/internal/TestMethodWorker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2329">
-          <caret line="139" selection-start-line="139" selection-end-line="139" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8-sources.jar!/org/testng/internal/Invoker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4207">
-          <caret line="771" selection-start-line="771" selection-end-line="771" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8-sources.jar!/org/testng/internal/TestMethodWorker.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8-sources.jar!/org/testng/internal/Invoker.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tdrManager/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -1090,13 +841,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8-sources.jar!/org/testng/internal/MethodInvocationHelper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="79" selection-start-line="79" selection-end-line="79" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.8/testng-6.8-sources.jar!/org/testng/internal/MethodInvocationHelper.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tdrManager/CustomerAuthFilePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -1167,13 +912,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="43" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/seleniumTest.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1227,20 +965,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/testng.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
+        <state relative-caret-position="57">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tdrManager/Login.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="513">
+          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/testng.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-731">
+          <caret line="29" column="26" selection-start-line="29" selection-start-column="26" selection-end-line="29" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -1255,6 +1007,7 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
@@ -1285,7 +1038,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>12</last-edited>
+          <last-edited>1.8</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1302,7 +1055,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
